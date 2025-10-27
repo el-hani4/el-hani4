@@ -16,6 +16,7 @@ I'm a student in computer science, passionate about development and learning new
 ### Recent Projects
 
 - [My online CV](https://el-hani4.github.io/mon-cv/)
+- [Git'ELH - Site WordPress fictif](https://shirineelhani-rgpio.wordpress.com/)
 
 ---
 
