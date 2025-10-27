@@ -1,11 +1,24 @@
-## About Me
+## Hi, I'm Shirine
 
-<!--
-**el-hani4/el-hani4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-- I am a student in computer science.
-- I am passionate about films and series. 
+I'm a student in computer science, passionate about development and learning new technologies.
 
-## Contact
+---
 
-- shirine.el-hani@etu.unilim.fr
+### Technologies I use
+
+- HTML5 / CSS
+- Git & GitHub
+- VS Code
+- MySQL
+
+---
+
+### Recent Projects
+
+- [My online CV](https://el-hani4.github.io/mon-cv/)
+
+---
+
+### Contact
+
+- [Email me](mailto:shirine.ehi@gmail.com)
