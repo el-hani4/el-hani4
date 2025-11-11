@@ -6,9 +6,9 @@ I'm a student in computer science, passionate about development and learning new
 
 ### Technologies I use
 
-- HTML5 / CSS
+- HTML5 / CSS3 / JavaScript
+- VS Code / Eclipse / PyCharm
 - Git & GitHub
-- VS Code
 - MySQL
 
 ---
