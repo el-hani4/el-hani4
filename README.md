@@ -15,10 +15,10 @@ I'm a student in computer science, passionate about development and learning new
 
 ### Recent Projects
 
-- [Calculatrice simple](https://el-hani4.github.io/calculatrice-js/)
-- [Carte d'identité française fictive](https://el-hani4.github.io/id-card-html-css/index.html)
+- [Calculatrice simple](https://selhani.github.io/calculatrice-js/)
+- [Carte d'identité française fictive](https://selhani.github.io/id-card-html-css/index.html)
 - [Git'ELH - Site WordPress fictif](https://shirineelhani-rgpio.wordpress.com/)
-- [My online CV](https://el-hani4.github.io/mon-cv/)
+- [My online CV](https://selhani.github.io/mon-cv/)
 
 ---
 
